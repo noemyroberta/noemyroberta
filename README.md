@@ -1,6 +1,6 @@
 ### hi, there! 👋
 
-- 🔭 i’m currently working on @otimize-tec-br and UFAL (Universidade Federal de Alagoas)
+- 🔭 i’m currently working at Otimize and UFAL (Universidade Federal de Alagoas)
 - 🌱 i’m currently learning about Bluetooth connection with Flutter
 - 🫀 i like the most: **pair programming**, **gaining know-how** & **reading documentations**
 
