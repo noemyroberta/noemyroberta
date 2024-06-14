@@ -1,8 +1,8 @@
 ### Hi, I'm Noemy!
 
-**A Mobile Developer by day ☼ and a Student by night ☾**
+**A Software Engineer by day ☼ and a Student by night ☾**
 
-Flutter Developer at [Otimize Tec.](https://www.otimize.tec.br/index/);<br>
+Software Enginner Leader at [Otimize Tec.](https://www.otimize.tec.br/index/);<br>
 Host/Organizing/Leader at [Kat;e](https://ic.ufal.br/extensao/katie/);<br>
 Graduating in Computer Science.
 
