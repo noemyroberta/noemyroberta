@@ -3,7 +3,6 @@
 **A Software Engineer by day ☼ and a Student by night ☾**
 
 Software Enginner Leader at [Otimize Tec.](https://www.otimize.tec.br/index/);<br>
-Host/Organizing/Leader at [Kat;e](https://ic.ufal.br/extensao/katie/);<br>
 Graduating in Computer Science.
 
 - ⚙️ I use daily: `.dart`, `.py`, `.java`, `.js`, `.svg`, `.json`, `.fig`
