@@ -2,10 +2,10 @@
 
 **A Software Engineer by day ☼ and a Student by night ☾**
 
-Software Enginner Leader at [Otimize Tec.](https://www.otimize.tec.br/index/);<br>
-Graduating in Computer Science.
+Software Engineer, CEO & co-founder at Viventio -- my first-born son (https://viventio.com.br/) <br>
+Graduating in Computer Science
 
-- ⚙️ I use daily: `.dart`, `.py`, `.java`, `.js`, `.svg`, `.json`, `.fig`
+- ⚙️ I use daily: `.dart`, `.py`, `.java`, `.json`, `.fig`, `.tsx`
 - 💬 `Ping` me about API, mobile development, Flutter, UX, performance & algorithms, web apps, BLE and more...
 - 🫀 I especially like **pair programming**, **gaining know-how** & **reading documentations**
 
