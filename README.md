@@ -2,7 +2,8 @@
 
 **A Software Engineer by day ☼ and a Student by night ☾**
 
-Software Engineer, CEO & co-founder at [Viventio](https://viventio.com.br/) - my first-born son <br>
+Software Engineer
+CEO & co-founder at [Viventio](https://viventio.com.br/) - my first-born son <br>
 Graduating in Computer Science
 
 - ⚙️ I use daily: `.dart`, `.py`, `.java`, `.json`, `.fig`, `.tsx`
