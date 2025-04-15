@@ -2,7 +2,7 @@
 
 **A Software Engineer by day ☼ and a Student by night ☾**
 
-Software Engineer
+Software Engineer <br>
 CEO & co-founder at [Viventio](https://viventio.com.br/) - my first-born son <br>
 Graduating in Computer Science
 
